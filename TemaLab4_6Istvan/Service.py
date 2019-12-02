@@ -3,6 +3,7 @@ Created on Oct 24, 2019
 
 @author: Tonirel
 '''
+#adaug ceva random
 from Adaugare import create_tz,valid_tz,add_tz,get_suma,get_zi,get_tip, create_state,\
     lenght
 from Cautari import sum_gr8_than,b4_day_gr8_than,tz_anumit_tip

@@ -3,6 +3,7 @@ Created on Oct 24, 2019
 
 @author: Tonirel
 '''
+#again
 from Service import sv_add_tz,sv_sum_gr8_than,sv_b4_day_gr8_than,sv_tz_anumit_tip,sv_el_tz_tip,sv_sum_tip,sv_sold,sv_tz_tip_ord,sv_del_tz_zi,sv_del_tz_per,sv_del_tz_tip,\
     sv_el_tz_small_and_type,sv_undo, add_undo
 from Cautari import get_suma
@@ -40,7 +41,8 @@ def new_UI_add_tz(s,us,x):
             break
         except Exception as ex:
             print(ex)
-            
+    if 1<0:
+        print("LoL!")
 def new_UI_print(s,us,x):
     if lenght(s)==0:
         print("Nu exista tranzactii!")
