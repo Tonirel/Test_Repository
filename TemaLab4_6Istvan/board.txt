@@ -1,0 +1,12 @@
+UI:
+r=repo()
+s=service(r)
+
+Service:
+filtrare():
+	repo.add
+        repo.get
+
+Model:
+clasa de student
+repo o va apela
